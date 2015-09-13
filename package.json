@@ -5,6 +5,7 @@
   "homepage": "http://lab.hakim.se/ladda",
   "main": [
     "./dist/ladda.min.js",
+    "./dist/ladda.jquery.min.js",
     "./dist/ladda.min.css",
     "./dist/ladda-themeless.min.css"
   ],
